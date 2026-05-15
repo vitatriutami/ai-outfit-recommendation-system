@@ -1,0 +1,501 @@
+embedding_idx,id,productDisplayName,masterCategory,subCategory,articleType,baseColour,season,usage,gender,formal_level,indoor_outdoor,style_group,body_type_match,image_file
+0,32632,Nike Women Legend Slim Poly Grey Capris,Apparel,Bottomwear,Capris,Grey,Summer,Sports,Women,sports,both,casual,['all'],32632.jpg
+1,51029,Enamor Rose Coloured Bra,Apparel,Innerwear,Bra,Pink,Summer,Casual,Women,casual,both,casual,['all'],51029.jpg
+2,40057,ADIDAS Men Blue Printed T-shirt,Apparel,Topwear,Tshirts,Blue,Summer,Casual,Men,casual,outdoor,minimalist,"['rectangle', 'pear']",40057.jpg
+3,50444,Chromozome Men Navy Blue Pack of 2 Briefs,Apparel,Innerwear,Briefs,Navy Blue,Summer,Casual,Men,casual,both,casual,['all'],50444.jpg
+4,30781,Fabindia Men Yellow Mangalgiri Kurta,Apparel,Topwear,Kurtas,Yellow,Summer,Ethnic,Men,semi_formal,indoor,ethnic,"['pear', 'hourglass']",30781.jpg
+5,29229,ADIDAS Men Power Howard Black Sports Shoes,Footwear,Shoes,Sports Shoes,Black,Summer,Sports,Men,sports,outdoor,sporty,['all'],29229.jpg
+6,31208,Nike Men Mercurial Victory Purple Sports Shoes,Footwear,Shoes,Sports Shoes,Purple,Summer,Sports,Men,sports,outdoor,sporty,['all'],31208.jpg
+7,28989,Biba Outlet Women Blue & Green Printed Churidar Kurta with Dupatta,Apparel,Apparel Set,Kurta Sets,Blue,Summer,Ethnic,Women,semi_formal,both,casual,['all'],28989.jpg
+8,23862,ADIDAS Men Green Spider 2 M Sports Shoes,Footwear,Shoes,Sports Shoes,Green,Fall,Sports,Men,sports,outdoor,sporty,['all'],23862.jpg
+9,27657,Marvel Men Printed Yellow T-shirt,Apparel,Topwear,Tshirts,Yellow,Summer,Casual,Men,casual,outdoor,minimalist,"['rectangle', 'pear']",27657.jpg
+10,6472,ADIDAS Wmen's Free Soul White T-shirt,Apparel,Topwear,Tshirts,White,Summer,Casual,Women,casual,outdoor,minimalist,"['rectangle', 'pear']",6472.jpg
+11,37188,United Colors of Benetton Boys Printed Red T-shirt,Apparel,Topwear,Tshirts,Red,Summer,Casual,Boys,casual,outdoor,minimalist,"['rectangle', 'pear']",37188.jpg
+12,13028,Inc 5 Women Casual Black Heels,Footwear,Shoes,Heels,Black,Winter,Casual,Women,casual,both,casual,['all'],13028.jpg
+13,4058,Myntra Men's Drink N Drive White T-shirt,Apparel,Topwear,Tshirts,White,Summer,Casual,Men,casual,outdoor,minimalist,"['rectangle', 'pear']",4058.jpg
+14,32810,iPanema Women Ritmos Cream Flats,Footwear,Shoes,Heels,Cream,Winter,Casual,Women,casual,both,casual,['all'],32810.jpg
+15,16515,Locomotive Men Washed Blue Jeans,Apparel,Bottomwear,Jeans,Blue,Fall,Casual,Men,casual,both,casual,['all'],16515.jpg
+16,39746,Gini Jony Girls Black Top,Apparel,Topwear,Tops,Black,Summer,Casual,Girls,casual,both,casual,['all'],39746.jpg
+17,4500,Lotto Men's Chamonix Brown Black Shoe,Footwear,Shoes,Sports Shoes,Brown,Summer,Sports,Men,sports,outdoor,sporty,['all'],4500.jpg
+18,4480,Puma Unisex Ikonis Black Silver Shoe,Footwear,Shoes,Sports Shoes,Black,Summer,Sports,Unisex,sports,outdoor,sporty,['all'],4480.jpg
+19,46400,ADIDAS Men Grey Shorts,Apparel,Bottomwear,Shorts,Grey Melange,Summer,Casual,Men,casual,outdoor,casual,"['rectangle', 'pear']",46400.jpg
+20,28562,Nike Men Brushed Navy blue T-shirt,Apparel,Topwear,Tshirts,Navy Blue,Summer,Casual,Men,casual,outdoor,minimalist,"['rectangle', 'pear']",28562.jpg
+21,21626,Enamor Women Smooth White Bra,Apparel,Innerwear,Bra,White,Summer,Casual,Women,casual,both,casual,['all'],21626.jpg
+22,5675,Skechers Men's Ilets Resolute Black Shoe,Footwear,Shoes,Formal Shoes,Black,Summer,Formal,Men,formal,indoor,casual,['all'],5675.jpg
+23,4858,Nike Men Utd White Jersey,Apparel,Topwear,Tshirts,White,Summer,Sports,Men,sports,outdoor,minimalist,"['rectangle', 'pear']",4858.jpg
+24,56287,Biara Women White Bra,Apparel,Innerwear,Bra,White,Summer,Casual,Women,casual,both,casual,['all'],56287.jpg
+25,35689,U.S. Polo Assn. Men White Shoes,Footwear,Shoes,Casual Shoes,White,Spring,Casual,Men,casual,outdoor,casual,['all'],35689.jpg
+26,57439,Angry Birds Women Pink T-shirt,Apparel,Topwear,Tshirts,Pink,Summer,Casual,Women,casual,outdoor,minimalist,"['rectangle', 'pear']",57439.jpg
+27,51838,Bwitch Women Black Brief,Apparel,Innerwear,Briefs,Black,Summer,Casual,Women,casual,both,casual,['all'],51838.jpg
+28,56936,HM Women Golden Flats,Footwear,Shoes,Heels,Gold,Winter,Casual,Women,casual,both,casual,['all'],56936.jpg
+29,22189,Timberland Men Brown Casual Shoes,Footwear,Shoes,Casual Shoes,Brown,Fall,Casual,Men,casual,outdoor,casual,['all'],22189.jpg
+30,34107,Doodle Girls Pink Top,Apparel,Topwear,Tops,Pink,Summer,Casual,Girls,casual,both,casual,['all'],34107.jpg
+31,6831,Nike Men's Street Pana II White Shoe,Footwear,Shoes,Casual Shoes,White,Summer,Casual,Men,casual,outdoor,casual,['all'],6831.jpg
+32,57437,Angry Birds Women Off White T-shirt,Apparel,Topwear,Tshirts,Off White,Summer,Casual,Women,casual,outdoor,minimalist,"['rectangle', 'pear']",57437.jpg
+33,13548,Carlton London Women Casual Green Flats,Footwear,Shoes,Heels,Green,Spring,Casual,Women,casual,both,casual,['all'],13548.jpg
+34,31980,Nike Men Lebron Slide Red Sandals,Footwear,Sandal,Sandals,Red,Summer,Casual,Men,casual,outdoor,casual,['all'],31980.jpg
+35,34207,Proline Men Green Polo Tshirt,Apparel,Topwear,Tshirts,Green,Summer,Casual,Men,casual,outdoor,minimalist,"['rectangle', 'pear']",34207.jpg
+36,39233,Femella Women Blue GGT Pannel Princess Dress,Apparel,Dress,Dresses,Blue,Summer,Casual,Women,casual,both,casual,['all'],39233.jpg
+37,3809,Disney Kids Boy's He Is Behind You Red Kidswear,Apparel,Topwear,Tshirts,Red,Summer,Casual,Boys,casual,outdoor,minimalist,"['rectangle', 'pear']",3809.jpg
+38,49496,Vans Men Grey Shoes,Footwear,Shoes,Casual Shoes,Grey,Summer,Casual,Men,casual,outdoor,casual,['all'],49496.jpg
+39,53734,Puma Men Grey Vintage Ferrari Shoes,Footwear,Shoes,Casual Shoes,Grey,Summer,Casual,Men,casual,outdoor,casual,['all'],53734.jpg
+40,22503,Catwalk Women Brown Casual Sandals,Footwear,Shoes,Flats,Brown,Winter,Casual,Women,casual,both,casual,['all'],22503.jpg
+41,56981,HM Women Golden Sandals,Footwear,Shoes,Flats,Gold,Winter,Casual,Women,casual,both,casual,['all'],56981.jpg
+42,57140,Elle Women Brown Trousers,Apparel,Bottomwear,Trousers,Brown,Summer,Casual,Women,casual,both,casual,['all'],57140.jpg
+43,3751,Status Quo Men's Ticket To Win Blue T-shirt,Apparel,Topwear,Tshirts,Blue,Summer,Casual,Men,casual,outdoor,minimalist,"['rectangle', 'pear']",3751.jpg
+44,22252,ID Men Blue Casual Shoes,Footwear,Shoes,Casual Shoes,Blue,Summer,Casual,Men,casual,outdoor,casual,['all'],22252.jpg
+45,3807,Disney Kids Boy's Red Mickey Ship Kidswear,Apparel,Topwear,Tshirts,Red,Summer,Casual,Boys,casual,outdoor,minimalist,"['rectangle', 'pear']",3807.jpg
+46,24711,Puma Men Suede Archive Red Casual Shoes,Footwear,Shoes,Casual Shoes,Red,Fall,Casual,Men,casual,outdoor,casual,['all'],24711.jpg
+47,33713,Cobblerz Men Red Flip Flops,Footwear,Flip Flops,Flip Flops,Red,Winter,Casual,Men,casual,outdoor,casual,['all'],33713.jpg
+48,28766,Aurelia Women Printed Brown Kurta,Apparel,Topwear,Kurtas,Brown,Summer,Ethnic,Women,semi_formal,indoor,ethnic,"['pear', 'hourglass']",28766.jpg
+49,22542,Lotto  Kids-Boy Jumper  White Sports Shoes,Footwear,Shoes,Sports Shoes,White,Fall,Sports,Men,sports,outdoor,sporty,['all'],22542.jpg
+50,19142,Lotto Men Rapid Black Sandals,Footwear,Sandal,Sandals,Black,Fall,Casual,Men,casual,outdoor,casual,['all'],19142.jpg
+51,53639,ADIDAS Men Black Shoes,Footwear,Shoes,Casual Shoes,White,Summer,Casual,Men,casual,outdoor,casual,['all'],53639.jpg
+52,50592,Chromozome Men Black Briefs,Apparel,Innerwear,Briefs,Black,Summer,Casual,Men,casual,both,casual,['all'],50592.jpg
+53,16378,Peter England Men Stripes Navy Blue Trouser,Apparel,Bottomwear,Trousers,Charcoal,Fall,Formal,Men,formal,both,casual,['all'],16378.jpg
+54,52905,FNF Yellow and Red Printed Bandhani Sari,Apparel,Saree,Sarees,Yellow,Fall,Ethnic,Women,semi_formal,both,casual,['all'],52905.jpg
+55,28848,Proline Men Grey Polo T-shirt,Apparel,Topwear,Tshirts,Grey,Summer,Casual,Men,casual,outdoor,minimalist,"['rectangle', 'pear']",28848.jpg
+56,35486,Bata Men Tennis White Sports Shoes,Footwear,Shoes,Sports Shoes,White,Winter,Casual,Men,casual,outdoor,sporty,['all'],35486.jpg
+57,15499,Carlton London Women Casual Red Stilettos,Footwear,Shoes,Heels,Red,Spring,Formal,Women,formal,both,casual,['all'],15499.jpg
+58,15474,Puma Men Polo Striped Green Tshirts,Apparel,Topwear,Tshirts,Green,Fall,Casual,Men,casual,outdoor,minimalist,"['rectangle', 'pear']",15474.jpg
+59,54055,Myntra Women Rust Leggings,Apparel,Bottomwear,Leggings,Rust,Summer,Casual,Women,casual,both,casual,['all'],54055.jpg
+60,32759,Indigo Nation Men Striped Purple Shirt,Apparel,Topwear,Shirts,Purple,Summer,Casual,Men,casual,indoor,smart_casual,"['rectangle', 'apple']",32759.jpg
+61,3186,Nike Men's Main Draw White Shoe,Footwear,Shoes,Sports Shoes,White,Summer,Sports,Men,sports,outdoor,sporty,['all'],3186.jpg
+62,29598,Indigo Nation Men Striped Black & Blue T-shirt,Apparel,Topwear,Tshirts,Black,Summer,Casual,Men,casual,outdoor,minimalist,"['rectangle', 'pear']",29598.jpg
+63,26902,Jealous 21 Women Printed Lavender Top,Apparel,Topwear,Tops,Lavender,Summer,Casual,Women,casual,both,casual,['all'],26902.jpg
+64,9221,Puma Women Coral Black Casual Slippers,Footwear,Flip Flops,Flip Flops,Black,Fall,Casual,Women,casual,outdoor,casual,['all'],9221.jpg
+65,6434,Lotto Men's Canvas Khaki Shoe,Footwear,Shoes,Casual Shoes,Brown,Summer,Casual,Men,casual,outdoor,casual,['all'],6434.jpg
+66,6625,ADIDAS Men's Morin White Shoe,Footwear,Shoes,Sports Shoes,White,Summer,Sports,Men,sports,outdoor,sporty,['all'],6625.jpg
+67,30743,Fabindia Men Striped White Kurta,Apparel,Topwear,Kurtas,White,Summer,Ethnic,Men,semi_formal,indoor,ethnic,"['pear', 'hourglass']",30743.jpg
+68,4246,Probase Men's I'M So Broke Green T-shirt,Apparel,Topwear,Tshirts,Green,Summer,Casual,Men,casual,outdoor,minimalist,"['rectangle', 'pear']",4246.jpg
+69,59651,FNF Cream & Pink Evening Wear Sari,Apparel,Saree,Sarees,Cream,Fall,Ethnic,Women,semi_formal,both,casual,['all'],59651.jpg
+70,39213,Franco Leone Men Black Formal Shoes,Footwear,Shoes,Formal Shoes,Black,Summer,Formal,Men,formal,indoor,casual,['all'],39213.jpg
+71,34650,Fila Women Top Fuel Black Sports Shoes,Footwear,Shoes,Sports Shoes,Black,Summer,Sports,Women,sports,outdoor,sporty,['all'],34650.jpg
+72,49809,iPanema Women White Flip Flops,Footwear,Flip Flops,Flip Flops,White,Winter,Casual,Women,casual,outdoor,casual,['all'],49809.jpg
+73,35787,Enroute Women Grey Shoes,Footwear,Shoes,Flats,Grey,Summer,Casual,Women,casual,both,casual,['all'],35787.jpg
+74,48487,French Connection Women White Top,Apparel,Topwear,Tops,White,Summer,Casual,Women,casual,both,casual,['all'],48487.jpg
+75,50683,Chromozome Men Pack of Two Trunks,Apparel,Innerwear,Trunk,Brown,Summer,Casual,Men,casual,both,casual,['all'],50683.jpg
+76,26128,John Miller Men Striped White Shirt,Apparel,Topwear,Shirts,White,Summer,Formal,Men,formal,indoor,smart_casual,"['rectangle', 'apple']",26128.jpg
+77,5429,Fila Men's Cruise Black Shoe,Footwear,Shoes,Casual Shoes,Black,Summer,Casual,Men,casual,outdoor,casual,['all'],5429.jpg
+78,1846,Inkfruit Men Buddha Bless You T-shirt,Apparel,Topwear,Tshirts,Blue,Summer,Casual,Men,casual,outdoor,minimalist,"['rectangle', 'pear']",1846.jpg
+79,7855,Proline Men Purple Polo T-shirt,Apparel,Topwear,Tshirts,Purple,Fall,Casual,Men,casual,outdoor,minimalist,"['rectangle', 'pear']",7855.jpg
+80,12882,Fila Men Sports White Shoes,Footwear,Shoes,Sports Shoes,White,Fall,Sports,Men,sports,outdoor,sporty,['all'],12882.jpg
+81,29846,Basics Men Grey Trousers,Apparel,Bottomwear,Trousers,Grey,Summer,Casual,Men,casual,both,casual,['all'],29846.jpg
+82,12320,Genesis Men Brown Striped Shirt,Apparel,Topwear,Shirts,Brown,Fall,Formal,Men,formal,indoor,smart_casual,"['rectangle', 'apple']",12320.jpg
+83,5327,Fila Men's Mountainaire Navy Shoe,Footwear,Shoes,Casual Shoes,Navy Blue,Summer,Casual,Men,casual,outdoor,casual,['all'],5327.jpg
+84,32379,Arrow Woman Printed Multi Coloured Dress,Apparel,Dress,Dresses,Off White,Summer,Casual,Women,casual,both,casual,['all'],32379.jpg
+85,24269,Quiksilver Men Grey Printed T-shirt,Apparel,Topwear,Tshirts,Grey,Fall,Casual,Men,casual,outdoor,minimalist,"['rectangle', 'pear']",24269.jpg
+86,24307,ADIDAS Men Grey Printed Sweatshirt,Apparel,Topwear,Sweatshirts,Grey,Fall,Casual,Men,casual,outdoor,streetwear,"['rectangle', 'pear']",24307.jpg
+87,39951,Gas Men Blue Freak Flip Flops,Footwear,Flip Flops,Flip Flops,Blue,Fall,Casual,Men,casual,outdoor,casual,['all'],39951.jpg
+88,26472,Puma Men Classic Graphic  White T-shirt,Apparel,Topwear,Tshirts,White,Summer,Casual,Men,casual,outdoor,minimalist,"['rectangle', 'pear']",26472.jpg
+89,6319,Puma Unisex Arizona Navy Blue Flip Flop,Footwear,Flip Flops,Flip Flops,Navy Blue,Spring,Casual,Unisex,casual,outdoor,casual,['all'],6319.jpg
+90,11721,Lee Men Check Green Shirts,Apparel,Topwear,Shirts,Green,Summer,Casual,Men,casual,indoor,smart_casual,"['rectangle', 'apple']",11721.jpg
+91,2885,Catwalk Women Leather Cut Boot Beige Flats,Footwear,Shoes,Heels,Beige,Winter,Casual,Women,casual,both,casual,['all'],2885.jpg
+92,43673,ONLY Women Blue Jacket,Apparel,Topwear,Jackets,Blue,Summer,Casual,Women,casual,both,casual,['all'],43673.jpg
+93,29258,ADIDAS Women Vanquish 5 W White Sports Shoes,Footwear,Shoes,Sports Shoes,White,Summer,Sports,Women,sports,outdoor,sporty,['all'],29258.jpg
+94,16065,Highlander Men Solid Blue Trouser,Apparel,Bottomwear,Trousers,Navy Blue,Fall,Casual,Men,casual,both,casual,['all'],16065.jpg
+95,11819,Playboy Men Casual Blue Casual Shoes,Footwear,Shoes,Casual Shoes,Blue,Summer,Casual,Men,casual,outdoor,casual,['all'],11819.jpg
+96,35406,Enroute Men Brown Sandals,Footwear,Sandal,Sandals,Brown,Summer,Casual,Men,casual,outdoor,casual,['all'],35406.jpg
+97,4910,Levis Kids Girl's Dionne Pink Teens Kidswear,Apparel,Topwear,Tops,Pink,Summer,Casual,Women,casual,both,casual,['all'],4910.jpg
+98,5890,Puma Men's Graphics Story Green T-shirt,Apparel,Topwear,Tshirts,Green,Summer,Casual,Men,casual,outdoor,minimalist,"['rectangle', 'pear']",5890.jpg
+99,23241,Aneri Women Juhi Blue Kurti,Apparel,Topwear,Kurtis,Blue,Fall,Ethnic,Women,semi_formal,both,casual,['all'],23241.jpg
+100,16610,Genesis Men Solid Black Trouser,Apparel,Bottomwear,Trousers,Black,Fall,Formal,Men,formal,both,casual,['all'],16610.jpg
+101,33353,Homme Men Black Formal Oxford Shoes,Footwear,Shoes,Formal Shoes,Black,Summer,Formal,Men,formal,indoor,casual,['all'],33353.jpg
+102,36558,Jack & Jones Men Note Navy Blue T-shirt,Apparel,Topwear,Tshirts,Navy Blue,Summer,Casual,Men,casual,outdoor,minimalist,"['rectangle', 'pear']",36558.jpg
+103,42178,Lotto Men Red Sports Shoes,Footwear,Shoes,Sports Shoes,Red,Summer,Sports,Men,sports,outdoor,sporty,['all'],42178.jpg
+104,4089,Classic Polo Men's White With Orange Black Stripe T-shirt,Apparel,Topwear,Tshirts,White,Summer,Casual,Men,casual,outdoor,minimalist,"['rectangle', 'pear']",4089.jpg
+105,10487,Flying Machine Men Midrise Blue Jeans,Apparel,Bottomwear,Jeans,Blue,Fall,Casual,Men,casual,both,casual,['all'],10487.jpg
+106,18407,Skechers Women D'lites White Shoe,Footwear,Shoes,Casual Shoes,White,Fall,Casual,Women,casual,outdoor,casual,['all'],18407.jpg
+107,9715,Scholl Men Massagio Black Formal Shoes,Footwear,Shoes,Formal Shoes,Black,Fall,Formal,Men,formal,indoor,casual,['all'],9715.jpg
+108,46076,ADIDAS Women Black Libria Sandals,Footwear,Shoes,Flats,Black,Summer,Casual,Women,casual,both,casual,['all'],46076.jpg
+109,18863,Puma Men Heritage Red Sweatshirt,Apparel,Topwear,Sweatshirts,Red,Fall,Casual,Men,casual,outdoor,streetwear,"['rectangle', 'pear']",18863.jpg
+110,23043,Arrow Woman Blue Jeggings,Apparel,Bottomwear,Leggings,Blue,Fall,Casual,Women,casual,both,casual,['all'],23043.jpg
+111,9162,Locomotive Men Callum Blue Jeans,Apparel,Bottomwear,Jeans,Blue,Fall,Casual,Men,casual,both,casual,['all'],9162.jpg
+112,9783,ADIDAS Men Bnce Hop White Tshirts,Apparel,Topwear,Tshirts,White,Fall,Casual,Men,casual,outdoor,minimalist,"['rectangle', 'pear']",9783.jpg
+113,41699,DC Comics Men Blue Printed Lounge Pants,Apparel,Loungewear and Nightwear,Lounge Pants,Navy Blue,Summer,Casual,Men,casual,both,casual,['all'],41699.jpg
+114,6643,Nike Women's Transform III IN Black Pink Shoe,Footwear,Shoes,Sports Shoes,Pink,Summer,Sports,Women,sports,outdoor,sporty,['all'],6643.jpg
+115,42173,Status Quo Men Grey T-shirt,Apparel,Topwear,Tshirts,Grey,Winter,Casual,Men,casual,outdoor,minimalist,"['rectangle', 'pear']",42173.jpg
+116,5926,ADIDAS Men's Derby Fresh Splash White Shoe,Footwear,Shoes,Casual Shoes,White,Summer,Casual,Men,casual,outdoor,casual,['all'],5926.jpg
+117,57121,Elle Women White Top,Apparel,Topwear,Tops,White,Summer,Casual,Women,casual,both,casual,['all'],57121.jpg
+118,8967,Puma Men Drift Cat III SF NM Black Sports Shoes,Footwear,Shoes,Sports Shoes,Black,Fall,Sports,Men,sports,outdoor,sporty,['all'],8967.jpg
+119,23809,Clarks Men Black Leather Boots,Footwear,Shoes,Casual Shoes,Black,Summer,Casual,Men,casual,outdoor,casual,['all'],23809.jpg
+120,16541,Basics Men Black Slim Fit Checked Shirt,Apparel,Topwear,Shirts,Black,Fall,Casual,Men,casual,indoor,smart_casual,"['rectangle', 'apple']",16541.jpg
+121,38501,Gini and Jony Woven Navy Blue Jeans,Apparel,Bottomwear,Jeans,Navy Blue,Summer,Casual,Girls,casual,both,casual,['all'],38501.jpg
+122,9986,Nike Men Tnfl Crew Blue T-Shirts,Apparel,Topwear,Tshirts,Blue,Fall,Sports,Men,sports,outdoor,minimalist,"['rectangle', 'pear']",9986.jpg
+123,1998,ADIDAS Mens Fitted T-shirt,Apparel,Topwear,Tshirts,Black,Fall,Sports,Men,sports,outdoor,minimalist,"['rectangle', 'pear']",1998.jpg
+124,31902,Heart 2 Heart Women Black Brief,Apparel,Innerwear,Briefs,Black,Summer,Casual,Women,casual,both,casual,['all'],31902.jpg
+125,24700,Puma Women Yugorun Black Casual Shoes,Footwear,Shoes,Casual Shoes,Black,Summer,Casual,Women,casual,outdoor,casual,['all'],24700.jpg
+126,32181,ADIDAS Women Adi Trainer Black Sports Shoes,Footwear,Shoes,Sports Shoes,Black,Summer,Sports,Women,sports,outdoor,sporty,['all'],32181.jpg
+127,37763,John Players Men Orange Striped Shirt,Apparel,Topwear,Shirts,Orange,Summer,Casual,Men,casual,indoor,smart_casual,"['rectangle', 'apple']",37763.jpg
+128,37189,United Colors of Benetton Women Black Top,Apparel,Topwear,Tops,Black,Summer,Casual,Women,casual,both,casual,['all'],37189.jpg
+129,33848,Puma Men Drift Cat Brown Shoes,Footwear,Shoes,Casual Shoes,Brown,Summer,Casual,Men,casual,outdoor,casual,['all'],33848.jpg
+130,51432,Myntra Women White Check Shirt,Apparel,Topwear,Shirts,White,Summer,Casual,Women,casual,indoor,smart_casual,"['rectangle', 'apple']",51432.jpg
+131,52096,Myntra Women Orange Top,Apparel,Topwear,Tops,Orange,Summer,Casual,Women,casual,both,casual,['all'],52096.jpg
+132,52360,Red Rose Women Off White Nightdress,Apparel,Loungewear and Nightwear,Nightdress,Off White,Winter,Casual,Women,casual,both,casual,['all'],52360.jpg
+133,26826,Highlander Men Black Trousers,Apparel,Bottomwear,Trousers,Black,Summer,Casual,Men,casual,both,casual,['all'],26826.jpg
+134,11334,United Colors of Benetton Men Washed Navy Blue Jeans,Apparel,Bottomwear,Jeans,Navy Blue,Fall,Casual,Men,casual,both,casual,['all'],11334.jpg
+135,11408,United Colors of Benetton Men Light Winter Black Sweatshirts,Apparel,Topwear,Sweatshirts,Black,Fall,Casual,Men,casual,outdoor,streetwear,"['rectangle', 'pear']",11408.jpg
+136,26414,Turtle Men Check Green Shirt,Apparel,Topwear,Shirts,Green,Summer,Casual,Men,casual,indoor,smart_casual,"['rectangle', 'apple']",26414.jpg
+137,58509,Tonga Off-White & Black Animal Print Dress,Apparel,Dress,Dresses,Off White,Fall,Casual,Women,casual,both,casual,['all'],58509.jpg
+138,7513,Nike Men's As Explosive Red T-shirt,Apparel,Topwear,Tshirts,Red,Summer,Sports,Men,sports,outdoor,minimalist,"['rectangle', 'pear']",7513.jpg
+139,39904,ADIDAS Men Red Adipure Sports Shoes,Footwear,Shoes,Sports Shoes,Red,Summer,Sports,Men,sports,outdoor,sporty,['all'],39904.jpg
+140,26389,Turtle Men Check Magenta Shirt,Apparel,Topwear,Shirts,Magenta,Summer,Formal,Men,formal,indoor,smart_casual,"['rectangle', 'apple']",26389.jpg
+141,51455,Tonga Women Pink Printed Shrug,Apparel,Topwear,Shrug,Pink,Summer,Casual,Women,casual,both,casual,['all'],51455.jpg
+142,23966,Peter England Men Purple Printed T-shirt,Apparel,Topwear,Tshirts,Purple,Fall,Casual,Men,casual,outdoor,minimalist,"['rectangle', 'pear']",23966.jpg
+143,11786,Vishudh Women Pigment Print Blue Kurtas,Apparel,Topwear,Kurtas,Blue,Fall,Ethnic,Women,semi_formal,indoor,ethnic,"['pear', 'hourglass']",11786.jpg
+144,51761,Catwalk Women Brown Peep Toes,Footwear,Shoes,Heels,Brown,Winter,Casual,Women,casual,both,casual,['all'],51761.jpg
+145,29574,Vans Men Edgemont Black Shoes,Footwear,Shoes,Casual Shoes,Black,Summer,Casual,Men,casual,outdoor,casual,['all'],29574.jpg
+146,23668,Spykar Men Black Sweaters,Apparel,Topwear,Sweaters,Black,Fall,Casual,Men,casual,both,casual,['all'],23668.jpg
+147,57275,French Connection Men Blue & White Check Shirt,Apparel,Topwear,Shirts,Blue,Summer,Casual,Men,casual,indoor,smart_casual,"['rectangle', 'apple']",57275.jpg
+148,47633,Carlton London Women Magenta Shoes,Footwear,Shoes,Casual Shoes,Magenta,Spring,Casual,Women,casual,outdoor,casual,['all'],47633.jpg
+149,3747,Status Quo Men's Sound Off Black T-shirt,Apparel,Topwear,Tshirts,Black,Summer,Casual,Men,casual,outdoor,minimalist,"['rectangle', 'pear']",3747.jpg
+150,46860,Barbie Girls Purple Sandals,Footwear,Sandal,Sandals,Purple,Spring,Casual,Girls,casual,outdoor,casual,['all'],46860.jpg
+151,7459,Proline Men Green Striped Polo T-shirt,Apparel,Topwear,Tshirts,Green,Summer,Casual,Men,casual,outdoor,minimalist,"['rectangle', 'pear']",7459.jpg
+152,44343,Indian Terrain Men Red T-shirt,Apparel,Topwear,Tshirts,Red,Summer,Casual,Men,casual,outdoor,minimalist,"['rectangle', 'pear']",44343.jpg
+153,15322,Nike Men Solid Black Jacket,Apparel,Topwear,Jackets,Black,Fall,Casual,Men,casual,both,casual,['all'],15322.jpg
+154,5503,Mr.Men Men's Perfect Chilly Pepper T-shirt,Apparel,Topwear,Tshirts,Red,Summer,Casual,Men,casual,outdoor,minimalist,"['rectangle', 'pear']",5503.jpg
+155,33974,Femella Women Check Black Shirt,Apparel,Topwear,Shirts,Black,Summer,Casual,Women,casual,indoor,smart_casual,"['rectangle', 'apple']",33974.jpg
+156,53767,Puma Men White and Blue T-shirt,Apparel,Topwear,Tshirts,White,Summer,Casual,Men,casual,outdoor,minimalist,"['rectangle', 'pear']",53767.jpg
+157,22269,Inc. 5 Women Casual Blue Wedges,Footwear,Shoes,Heels,Blue,Winter,Casual,Women,casual,both,casual,['all'],22269.jpg
+158,25857,Skechers Men Black Casual Shoes,Footwear,Shoes,Casual Shoes,Black,Summer,Casual,Men,casual,outdoor,casual,['all'],25857.jpg
+159,29172,United Colors of Benetton Kids Girls Printed Pink Skirt,Apparel,Bottomwear,Skirts,Pink,Summer,Casual,Girls,casual,both,casual,['all'],29172.jpg
+160,18117,Crusoe Men Easy Tee Black Innerwear Vest,Apparel,Innerwear,Innerwear Vests,Black,Summer,Casual,Men,casual,both,casual,['all'],18117.jpg
+161,33660,Lotto Men Sting II Black Sandals,Footwear,Sandal,Sandals,Black,Summer,Casual,Men,casual,outdoor,casual,['all'],33660.jpg
+162,28477,Urban Yoga Women Printed Purple Kurta,Apparel,Topwear,Kurtas,Purple,Summer,Ethnic,Women,semi_formal,indoor,ethnic,"['pear', 'hourglass']",28477.jpg
+163,26617,Puma Men Redon Move White Casual Shoes,Footwear,Shoes,Casual Shoes,White,Summer,Casual,Men,casual,outdoor,casual,['all'],26617.jpg
+164,13389,United Colors of Benetton Men Check Green Shirts,Apparel,Topwear,Shirts,Green,Summer,Casual,Men,casual,indoor,smart_casual,"['rectangle', 'apple']",13389.jpg
+165,44461,Senorita Women Black Sandals,Footwear,Shoes,Flats,Black,Summer,Casual,Women,casual,both,casual,['all'],44461.jpg
+166,57045,Elle Women Black Dress,Apparel,Dress,Dresses,Black,Summer,Casual,Women,casual,both,casual,['all'],57045.jpg
+167,51391,Myntra Men Blue Boxer,Apparel,Innerwear,Boxers,Blue,Summer,Casual,Men,casual,both,casual,['all'],51391.jpg
+168,18171,Doodle Kids Girls Ballon Green Top,Apparel,Topwear,Tops,Green,Fall,Casual,Girls,casual,both,casual,['all'],18171.jpg
+169,48474,French Connection Women Black Dress,Apparel,Dress,Dresses,Black,Winter,Casual,Women,casual,both,casual,['all'],48474.jpg
+170,39960,GAS Men Brown Madly Sandals,Footwear,Sandal,Sandals,Brown,Spring,Casual,Men,casual,outdoor,casual,['all'],39960.jpg
+171,53132,Catwalk Women Grey Flats,Footwear,Shoes,Heels,Grey,Winter,Casual,Women,casual,both,casual,['all'],53132.jpg
+172,42558,Mother Earth Women Multi Coloured Kurta,Apparel,Topwear,Kurtas,Multi,Summer,Ethnic,Women,semi_formal,indoor,ethnic,"['pear', 'hourglass']",42558.jpg
+173,52976,FNF Multi Coloured Sari,Apparel,Saree,Sarees,Multi,Fall,Ethnic,Women,semi_formal,both,casual,['all'],52976.jpg
+174,7647,Puma Men's Ducati One Ups Black T-shirt,Apparel,Topwear,Tshirts,Black,Fall,Sports,Men,sports,outdoor,minimalist,"['rectangle', 'pear']",7647.jpg
+175,10145,Rockport Men Drsp Wingtip Brown Formal Shoes,Footwear,Shoes,Formal Shoes,Brown,Fall,Formal,Men,formal,indoor,casual,['all'],10145.jpg
+176,57062,Elle Women Blue Jacket,Apparel,Topwear,Jackets,Blue,Summer,Casual,Women,casual,both,casual,['all'],57062.jpg
+177,30412,Deni Yo Men Slim Fit Washed Blue Jeans,Apparel,Bottomwear,Jeans,Blue,Summer,Casual,Men,casual,both,casual,['all'],30412.jpg
+178,19057,Aurelia Women Solid Green Kurta,Apparel,Topwear,Kurtas,Green,Fall,Ethnic,Women,semi_formal,indoor,ethnic,"['pear', 'hourglass']",19057.jpg
+179,46394,ADIDAS Men Blue & Black Check Shirt,Apparel,Topwear,Shirts,Blue,Summer,Casual,Men,casual,indoor,smart_casual,"['rectangle', 'apple']",46394.jpg
+180,26321,Proline Men Black Tracksuit,Apparel,Bottomwear,Tracksuits,Black,Fall,Sports,Men,sports,both,casual,['all'],26321.jpg
+181,2006,Puma Men's African Splash T-shirt,Apparel,Topwear,Tshirts,White,Fall,Casual,Men,casual,outdoor,minimalist,"['rectangle', 'pear']",2006.jpg
+182,13012,Inc 5 Women Casual Black Flats,Footwear,Shoes,Heels,Black,Winter,Casual,Women,casual,both,casual,['all'],13012.jpg
+183,35810,Enroute Women Bronze Flats,Footwear,Shoes,Heels,Bronze,Summer,Casual,Women,casual,both,casual,['all'],35810.jpg
+184,2122,Lee Women Black Top,Apparel,Topwear,Tops,Black,Winter,Casual,Women,casual,both,casual,['all'],2122.jpg
+185,50748,Red Chief Men Brown Shoes,Footwear,Shoes,Casual Shoes,Brown,Winter,Casual,Men,casual,outdoor,casual,['all'],50748.jpg
+186,36173,Status Quo Men Printed Grey T-shirt,Apparel,Topwear,Tshirts,Grey,Summer,Casual,Men,casual,outdoor,minimalist,"['rectangle', 'pear']",36173.jpg
+187,16971,Puma Men Navy Blue & Orange Comfort Sandals,Footwear,Sandal,Sandals,Navy Blue,Fall,Casual,Men,casual,outdoor,casual,['all'],16971.jpg
+188,4756,ADIDAS Men's Force Polo White T-shirt,Apparel,Topwear,Tshirts,White,Summer,Sports,Men,sports,outdoor,minimalist,"['rectangle', 'pear']",4756.jpg
+189,4997,Fila Men's Galliant Black Shoe,Footwear,Shoes,Sports Shoes,Black,Summer,Sports,Men,sports,outdoor,sporty,['all'],4997.jpg
+190,40697,Numero Uno Men Grey Flip Flop,Footwear,Flip Flops,Flip Flops,Grey,Summer,Casual,Men,casual,outdoor,casual,['all'],40697.jpg
+191,47679,Probase Blue Printed Boxers,Apparel,Innerwear,Boxers,Blue,Summer,Casual,Men,casual,both,casual,['all'],47679.jpg
+192,16312,Peter England Men Stripes Navy Blue Shirt,Apparel,Topwear,Shirts,Navy Blue,Fall,Casual,Men,casual,indoor,smart_casual,"['rectangle', 'apple']",16312.jpg
+193,8852,Mark Taylor Men Grey Striped Shirt,Apparel,Topwear,Shirts,Grey,Fall,Casual,Men,casual,indoor,smart_casual,"['rectangle', 'apple']",8852.jpg
+194,34503,Van Heusen Woman Grey Straight Fit Trousers,Apparel,Bottomwear,Trousers,Grey,Summer,Formal,Women,formal,both,casual,['all'],34503.jpg
+195,25576,Fila Men Surveillance White Shoes,Footwear,Shoes,Sports Shoes,White,Summer,Sports,Men,sports,outdoor,sporty,['all'],25576.jpg
+196,26603,Puma Men Fox Black Sports Shoes,Footwear,Shoes,Casual Shoes,Black,Fall,Sports,Men,sports,outdoor,casual,['all'],26603.jpg
+197,4508,Lotto Women Bilbao Blue White Shoe,Footwear,Shoes,Sports Shoes,Blue,Summer,Sports,Women,sports,outdoor,sporty,['all'],4508.jpg
+198,19870,ADIDAS Men Wires White Flip Flops,Footwear,Flip Flops,Flip Flops,White,Fall,Casual,Men,casual,outdoor,casual,['all'],19870.jpg
+199,40637,Span Women Green Kurta,Apparel,Topwear,Kurtas,Green,Summer,Ethnic,Women,semi_formal,indoor,ethnic,"['pear', 'hourglass']",40637.jpg
+200,43919,Femella Women Navy Blue Printed Dress,Apparel,Dress,Dresses,Navy Blue,Summer,Casual,Women,casual,both,casual,['all'],43919.jpg
+201,5494,Mr.Men Men's Charcoal Polo T-shirt,Apparel,Topwear,Tshirts,Grey,Summer,Casual,Men,casual,outdoor,minimalist,"['rectangle', 'pear']",5494.jpg
+202,58722,Puma Men Blue & White T-shirt,Apparel,Topwear,Tshirts,White,Fall,Casual,Men,casual,outdoor,minimalist,"['rectangle', 'pear']",58722.jpg
+203,26707,Nike Men Black Mikumi Sandals,Footwear,Sandal,Sandals,Black,Summer,Casual,Men,casual,outdoor,casual,['all'],26707.jpg
+204,26827,Highlander Men Olive Trousers,Apparel,Bottomwear,Trousers,Olive,Summer,Casual,Men,casual,both,casual,['all'],26827.jpg
+205,58570,Puma Men Green T-shirt,Apparel,Topwear,Tshirts,Green,Summer,Casual,Men,casual,outdoor,minimalist,"['rectangle', 'pear']",58570.jpg
+206,3058,Tantra Men's Cut The Crap Red T-shirt,Apparel,Topwear,Tshirts,Red,Summer,Casual,Men,casual,outdoor,minimalist,"['rectangle', 'pear']",3058.jpg
+207,20716,Red Tape Men Brown Leather Casual Shoes,Footwear,Shoes,Casual Shoes,Brown,Winter,Smart Casual,Men,smart_casual,outdoor,casual,['all'],20716.jpg
+208,12338,Spykar Women Ep Jeans Blue Jeans,Apparel,Bottomwear,Jeans,Blue,Fall,Casual,Women,casual,both,casual,['all'],12338.jpg
+209,22355,John Players Men Solid Blue Shirt,Apparel,Topwear,Shirts,Blue,Fall,Casual,Men,casual,indoor,smart_casual,"['rectangle', 'apple']",22355.jpg
+210,6597,Spykar Women's Round Neck Green Top,Apparel,Topwear,Tops,Green,Summer,Casual,Women,casual,both,casual,['all'],6597.jpg
+211,27873,Scullers For Her Striped Purple Shirt,Apparel,Topwear,Shirts,Purple,Summer,Casual,Women,casual,indoor,smart_casual,"['rectangle', 'apple']",27873.jpg
+212,24545,Mother Earth Women Red Printed Top,Apparel,Topwear,Tops,Red,Fall,Ethnic,Women,semi_formal,both,casual,['all'],24545.jpg
+213,16825,Little Miss Women Printed Purple T-shirt,Apparel,Topwear,Tshirts,Purple,Fall,Casual,Women,casual,outdoor,minimalist,"['rectangle', 'pear']",16825.jpg
+214,6134,ADIDAS Men's Kundo 2 Black Shoe,Footwear,Shoes,Casual Shoes,Black,Summer,Casual,Men,casual,outdoor,casual,['all'],6134.jpg
+215,2051,Lee Men's Kansas Cream T-shirt,Apparel,Topwear,Tshirts,Cream,Winter,Casual,Men,casual,outdoor,minimalist,"['rectangle', 'pear']",2051.jpg
+216,38389,ADIDAS Mumbai Indians Kids Unisex Blue Match Jersey,Apparel,Topwear,Tshirts,Blue,Summer,Sports,Unisex,sports,outdoor,minimalist,"['rectangle', 'pear']",38389.jpg
+217,30466,Lovable Women All Day Long Pink Bra,Apparel,Innerwear,Bra,Pink,Summer,Casual,Women,casual,both,casual,['all'],30466.jpg
+218,13347,Spykar Women Washed Blue Jeans,Apparel,Bottomwear,Jeans,Blue,Fall,Casual,Women,casual,both,casual,['all'],13347.jpg
+219,22621,Nike Men Printed Black T-shirt,Apparel,Topwear,Tshirts,Black,Fall,Sports,Men,sports,outdoor,minimalist,"['rectangle', 'pear']",22621.jpg
+220,35474,Catwalk Women Ruffles Blue Flats,Footwear,Shoes,Heels,Blue,Winter,Casual,Women,casual,both,casual,['all'],35474.jpg
+221,11881,Franco Leone Men Formal Brown Formal Shoes,Footwear,Shoes,Formal Shoes,Brown,Fall,Formal,Men,formal,indoor,casual,['all'],11881.jpg
+222,11887,Franco Leone Men Formal Black Formal Shoes,Footwear,Shoes,Formal Shoes,Black,Summer,Formal,Men,formal,indoor,casual,['all'],11887.jpg
+223,10722,Nike Men Casual short sleeve tshirt White Tshirts,Apparel,Topwear,Tshirts,White,Summer,Casual,Men,casual,outdoor,minimalist,"['rectangle', 'pear']",10722.jpg
+224,50724,Doodle Girls Blue Washed Dress,Apparel,Dress,Dresses,Blue,Summer,Casual,Girls,casual,both,casual,['all'],50724.jpg
+225,21153,s.Oliver Men Printed Grey Sweatshirt,Apparel,Topwear,Sweatshirts,Grey,Fall,Casual,Men,casual,outdoor,streetwear,"['rectangle', 'pear']",21153.jpg
+226,43303,United Colors of Benetton Women Black Dress,Apparel,Dress,Dresses,Black,Summer,Casual,Women,casual,both,casual,['all'],43303.jpg
+227,28483,Urban Yoga Men Purple Tshirt,Apparel,Topwear,Tshirts,Purple,Fall,Casual,Men,casual,outdoor,minimalist,"['rectangle', 'pear']",28483.jpg
+228,36256,SDL by Sweet Dreams Men Grey & Navy Blue Pyjama Set,Apparel,Loungewear and Nightwear,Night suits,Grey,Summer,Casual,Men,casual,both,casual,['all'],36256.jpg
+229,10342,United Colors of Benetton Women Printed Tunic Black Tops,Apparel,Topwear,Tops,Black,Fall,Casual,Women,casual,both,casual,['all'],10342.jpg
+230,25825,Diva Women Printed White Kurta,Apparel,Topwear,Kurtas,White,Summer,Ethnic,Women,semi_formal,indoor,ethnic,"['pear', 'hourglass']",25825.jpg
+231,48445,French Connection Men Grey T-shirt,Apparel,Topwear,Tshirts,Grey,Summer,Casual,Men,casual,outdoor,minimalist,"['rectangle', 'pear']",48445.jpg
+232,45369,Cobblerz Women Black Sandals,Footwear,Shoes,Heels,Black,Summer,Casual,Women,casual,both,casual,['all'],45369.jpg
+233,56960,HM Women Yellow Flats,Footwear,Shoes,Heels,Yellow,Winter,Casual,Women,casual,both,casual,['all'],56960.jpg
+234,14025,Nike Men Solid Grey Shorts,Apparel,Bottomwear,Shorts,Grey,Fall,Sports,Men,sports,outdoor,casual,"['rectangle', 'pear']",14025.jpg
+235,50567,Chromozome Men Pack of Two Grey Trunks,Apparel,Innerwear,Trunk,Charcoal,Summer,Casual,Men,casual,both,casual,['all'],50567.jpg
+236,14356,Catwalk Women Casual Copper Flats,Footwear,Shoes,Heels,Copper,Winter,Casual,Women,casual,both,casual,['all'],14356.jpg
+237,18555,Catwalk Women Casual Brown Flats,Footwear,Shoes,Heels,Brown,Winter,Casual,Women,casual,both,casual,['all'],18555.jpg
+238,4071,Numero Uno Women Canvas Grey Purple Shoe,Footwear,Shoes,Casual Shoes,Grey,Summer,Casual,Women,casual,outdoor,casual,['all'],4071.jpg
+239,3640,Fila Men's Universe HI Black Shoe,Footwear,Shoes,Casual Shoes,Black,Summer,Casual,Men,casual,outdoor,casual,['all'],3640.jpg
+240,39136,Aneri Women Blue & White Printed Salwar Suit,Apparel,Apparel Set,Kurta Sets,Blue,Summer,Ethnic,Women,semi_formal,both,casual,['all'],39136.jpg
+241,11425,United Colors of Benetton Men Summer Grey Tshirts,Apparel,Topwear,Tshirts,Grey,Fall,Casual,Men,casual,outdoor,minimalist,"['rectangle', 'pear']",11425.jpg
+242,44734,Globalite Women White & Pink Flip Flops,Footwear,Flip Flops,Flip Flops,Pink,Spring,Casual,Women,casual,outdoor,casual,['all'],44734.jpg
+243,9055,ADIDAS Men Adi Fiero M White Sports Shoes,Footwear,Shoes,Sports Shoes,White,Fall,Sports,Men,sports,outdoor,sporty,['all'],9055.jpg
+244,42645,Alma Women Olive Kurta,Apparel,Topwear,Kurtas,Olive,Summer,Ethnic,Women,semi_formal,indoor,ethnic,"['pear', 'hourglass']",42645.jpg
+245,6458,Lotto Unisex Canvas White Blue Shoe,Footwear,Shoes,Casual Shoes,Blue,Summer,Casual,Unisex,casual,outdoor,casual,['all'],6458.jpg
+246,13251,Palm Tree Kids Boy Solid Beige Trousers,Apparel,Bottomwear,Trousers,Beige,Fall,Casual,Men,casual,both,casual,['all'],13251.jpg
+247,37774,John Players Men Check Shirts,Apparel,Topwear,Shirts,Green,Summer,Casual,Men,casual,indoor,smart_casual,"['rectangle', 'apple']",37774.jpg
+248,30251,Numero Uno Men Green Flip Flops,Footwear,Flip Flops,Flip Flops,Green,Summer,Casual,Men,casual,outdoor,casual,['all'],30251.jpg
+249,52518,Red Rose Red Nightdress,Apparel,Loungewear and Nightwear,Baby Dolls,Red,Winter,Casual,Women,casual,both,casual,['all'],52518.jpg
+250,52996,FNF Multi Coloured Sari,Apparel,Saree,Sarees,Multi,Fall,Ethnic,Women,semi_formal,both,casual,['all'],52996.jpg
+251,56410,GAS Men Brown Casual Shoes,Footwear,Shoes,Casual Shoes,Brown,Summer,Casual,Men,casual,outdoor,casual,['all'],56410.jpg
+252,44567,Coolers Men Coffee Brown Sandals,Footwear,Sandal,Sandals,Brown,Summer,Casual,Men,casual,outdoor,casual,['all'],44567.jpg
+253,12752,Spykar Men Ep Jeans Blue Jeans,Apparel,Bottomwear,Jeans,Blue,Fall,Casual,Men,casual,both,casual,['all'],12752.jpg
+254,56654,United Colors of Benetton Men Black Shoes,Footwear,Shoes,Casual Shoes,Black,Summer,Casual,Men,casual,outdoor,casual,['all'],56654.jpg
+255,6462,Lotto Men's Leisure Black Shoe,Footwear,Shoes,Casual Shoes,Black,Summer,Casual,Men,casual,outdoor,casual,['all'],6462.jpg
+256,21646,Enamor Women Smooth Skin Bra,Apparel,Innerwear,Bra,Skin,Summer,Casual,Women,casual,both,casual,['all'],21646.jpg
+257,2711,Disney Kids Girl's Halter Neck Pink Kidswear,Apparel,Dress,Dresses,Pink,Summer,Casual,Girls,casual,both,casual,['all'],2711.jpg
+258,30951,Fabindia Women Striped Black Top,Apparel,Topwear,Tops,Black,Summer,Ethnic,Women,semi_formal,both,casual,['all'],30951.jpg
+259,9070,Mark Taylor Men Solid Blue Shirts,Apparel,Topwear,Shirts,Blue,Fall,Formal,Men,formal,indoor,smart_casual,"['rectangle', 'apple']",9070.jpg
+260,7723,Puma Unisex Popart Flip Black Dandelion Flip Flop,Footwear,Flip Flops,Flip Flops,Black,Fall,Casual,Unisex,casual,outdoor,casual,['all'],7723.jpg
+261,2748,Classic Polo Mens  T-shirt,Apparel,Topwear,Tshirts,Grey,Summer,Casual,Men,casual,outdoor,minimalist,"['rectangle', 'pear']",2748.jpg
+262,5770,Jealous 21 Women's Purple Detailed Top,Apparel,Topwear,Tops,Purple,Summer,Casual,Women,casual,both,casual,['all'],5770.jpg
+263,14626,United Colors of Benetton Women Solid Red Sweat Shirts,Apparel,Topwear,Sweatshirts,Red,Fall,Casual,Women,casual,outdoor,streetwear,"['rectangle', 'pear']",14626.jpg
+264,19125,Lotto Women XL Kelly Blue Slippers,Footwear,Flip Flops,Flip Flops,Blue,Fall,Casual,Women,casual,outdoor,casual,['all'],19125.jpg
+265,15778,Facit Men Mid- Rise BF Grey Briefs,Apparel,Innerwear,Briefs,Grey,Summer,Casual,Men,casual,both,casual,['all'],15778.jpg
+266,3299,Asics Men's Sport White Blue Gel Cushioning Shoe,Footwear,Shoes,Sports Shoes,White,Spring,Sports,Men,sports,outdoor,sporty,['all'],3299.jpg
+267,12491,Inkfruit Women Crap Green Tshirts,Apparel,Topwear,Tshirts,Green,Fall,Casual,Women,casual,outdoor,minimalist,"['rectangle', 'pear']",12491.jpg
+268,3733,Kochi Tuskers Mens Fangear Jersey,Apparel,Topwear,Tshirts,Purple,Summer,Sports,Men,sports,outdoor,minimalist,"['rectangle', 'pear']",3733.jpg
+269,59973,Avirate Women Navy Blue Dress,Apparel,Dress,Dresses,Navy Blue,Fall,Casual,Women,casual,both,casual,['all'],59973.jpg
+270,32387,Arrow Woman Black Cardigan,Apparel,Topwear,Sweaters,Black,Summer,Casual,Women,casual,both,casual,['all'],32387.jpg
+271,14582,United Colors of Benetton Women Solid Black Sweaters,Apparel,Topwear,Sweaters,Black,Fall,Casual,Women,casual,both,casual,['all'],14582.jpg
+272,50161,Rocia Women White Wedges,Footwear,Shoes,Heels,White,Winter,Casual,Women,casual,both,casual,['all'],50161.jpg
+273,47197,Franco Leone Men Black Sandals,Footwear,Sandal,Sandals,Black,Summer,Casual,Men,casual,outdoor,casual,['all'],47197.jpg
+274,3568,ADIDAS Women Black Training T-shirt,Apparel,Topwear,Tshirts,Black,Summer,Casual,Women,casual,outdoor,minimalist,"['rectangle', 'pear']",3568.jpg
+275,36203,Gini Jony Boys Beige Shorts,Apparel,Bottomwear,Shorts,Beige,Summer,Casual,Boys,casual,outdoor,casual,"['rectangle', 'pear']",36203.jpg
+276,56917,HM Women Brown Sandals,Footwear,Shoes,Heels,Brown,Winter,Casual,Women,casual,both,casual,['all'],56917.jpg
+277,3506,ADIDAS Women White Royal Silver Shoe,Footwear,Shoes,Casual Shoes,White,Fall,Casual,Women,casual,outdoor,casual,['all'],3506.jpg
+278,1763,Lotto Women Cathy Pink T-shirt,Apparel,Topwear,Tshirts,Pink,Summer,Casual,Women,casual,outdoor,minimalist,"['rectangle', 'pear']",1763.jpg
+279,10074,Puma Men Puma runhard tee Black Tshirts,Apparel,Topwear,Tshirts,Black,Fall,Casual,Men,casual,outdoor,minimalist,"['rectangle', 'pear']",10074.jpg
+280,30821,Fabindia Women Beige Mangalgiri Churidar,Apparel,Bottomwear,Churidar,Beige,Summer,Ethnic,Women,semi_formal,both,casual,['all'],30821.jpg
+281,13878,Scullers Men Check Red Shirts,Apparel,Topwear,Shirts,Red,Fall,Casual,Men,casual,indoor,smart_casual,"['rectangle', 'apple']",13878.jpg
+282,4538,Classic Polo Men's White T-shirt with Dark Blue Stripes,Apparel,Topwear,Tshirts,White,Winter,Casual,Men,casual,outdoor,minimalist,"['rectangle', 'pear']",4538.jpg
+283,9186,Spykar Men Free Wheeler Spirit Denim Blue Jeans,Apparel,Bottomwear,Jeans,Blue,Fall,Casual,Men,casual,both,casual,['all'],9186.jpg
+284,6026,UCB Men's Polo Neck With Big Ben Logo Black T-shirt,Apparel,Topwear,Tshirts,Black,Summer,Casual,Men,casual,outdoor,minimalist,"['rectangle', 'pear']",6026.jpg
+285,8079,ADIDAS Men Zeitfrei Slide Ff Black Sandals,Footwear,Sandal,Sandals,Black,Fall,Casual,Men,casual,outdoor,casual,['all'],8079.jpg
+286,39234,Femella Women White Panel Princess Dress,Apparel,Dress,Dresses,White,Summer,Casual,Women,casual,both,casual,['all'],39234.jpg
+287,50663,Chromozome Men Black Soccer Shorts,Apparel,Loungewear and Nightwear,Shorts,Black,Winter,Sports,Men,sports,outdoor,casual,"['rectangle', 'pear']",50663.jpg
+288,11380,United Colors Of Benetton Women Light Winter Black Tops,Apparel,Topwear,Tops,Black,Fall,Casual,Women,casual,both,casual,['all'],11380.jpg
+289,41002,Gini and Jony Girls Woven Blue Skirt,Apparel,Bottomwear,Skirts,Blue,Summer,Casual,Girls,casual,both,casual,['all'],41002.jpg
+290,45385,Rocia Women Bronze Sandals,Footwear,Shoes,Flats,Bronze,Winter,Casual,Women,casual,both,casual,['all'],45385.jpg
+291,17164,U.S. Polo Assn. Men Checks Blue Shirt,Apparel,Topwear,Shirts,Blue,Fall,Casual,Men,casual,indoor,smart_casual,"['rectangle', 'apple']",17164.jpg
+292,3920,Urban Yoga Men's Yoga Beige Track Pant,Apparel,Bottomwear,Track Pants,Beige,Summer,Casual,Men,casual,outdoor,sporty,"['rectangle', 'hourglass']",3920.jpg
+293,39281,Red Chief Men Black Slippers,Footwear,Sandal,Sandals,Black,Winter,Casual,Men,casual,outdoor,casual,['all'],39281.jpg
+294,39165,Aneri Women Blue Printed Kurta,Apparel,Topwear,Kurtas,Blue,Summer,Ethnic,Women,semi_formal,indoor,ethnic,"['pear', 'hourglass']",39165.jpg
+295,19810,U.S. Polo Assn. Men Stripes Purple Sweatshirt,Apparel,Topwear,Sweatshirts,Purple,Fall,Casual,Men,casual,outdoor,streetwear,"['rectangle', 'pear']",19810.jpg
+296,15221,ADIDAS Originals Men Court Lounge Brown Casual Shoes,Footwear,Shoes,Casual Shoes,Brown,Fall,Casual,Men,casual,outdoor,casual,['all'],15221.jpg
+297,12966,ADIDAS Men Snova Glide Grey Sports Shoes,Footwear,Shoes,Sports Shoes,Grey,Fall,Sports,Men,sports,outdoor,sporty,['all'],12966.jpg
+298,56934,HM Women Silver Flats,Footwear,Shoes,Heels,Silver,Winter,Casual,Women,casual,both,casual,['all'],56934.jpg
+299,6640,Nike Women Air Max Turbulence Grey Pink Shoe,Footwear,Shoes,Sports Shoes,Grey,Summer,Sports,Women,sports,outdoor,sporty,['all'],6640.jpg
+300,27129,Miss-T White Bra,Apparel,Innerwear,Bra,White,Summer,Casual,Women,casual,both,casual,['all'],27129.jpg
+301,35986,Flying Machine Women Cotton Purple T-shirt,Apparel,Topwear,Tshirts,Purple,Summer,Casual,Women,casual,outdoor,minimalist,"['rectangle', 'pear']",35986.jpg
+302,34693,Allen Solly Kids Girls Poplin Pink Shorts,Apparel,Bottomwear,Shorts,Pink,Summer,Casual,Girls,casual,outdoor,casual,"['rectangle', 'pear']",34693.jpg
+303,15830,Visudh Cream Printed Ethnic Kurta,Apparel,Topwear,Kurtas,Cream,Fall,Ethnic,Women,semi_formal,indoor,ethnic,"['pear', 'hourglass']",15830.jpg
+304,23208,Mark Taylor Men Red Printed T-shirt,Apparel,Topwear,Tshirts,Red,Fall,Casual,Men,casual,outdoor,minimalist,"['rectangle', 'pear']",23208.jpg
+305,30142,Flying Machine Women Printed Green T-shirt,Apparel,Topwear,Tshirts,Green,Summer,Casual,Women,casual,outdoor,minimalist,"['rectangle', 'pear']",30142.jpg
+306,14741,Arrow Men Solid Lavender Shirts,Apparel,Topwear,Shirts,Lavender,Fall,Formal,Men,formal,indoor,smart_casual,"['rectangle', 'apple']",14741.jpg
+307,2247,ADIDAS Women Swimming Purple Cap,Apparel,Apparel Set,Swimwear,Purple,Winter,Sports,Women,sports,both,casual,['all'],2247.jpg
+308,25540,Wrangler Men Pontius Striped Blue Shirt,Apparel,Topwear,Shirts,Blue,Summer,Casual,Men,casual,indoor,smart_casual,"['rectangle', 'apple']",25540.jpg
+309,45384,Rocia Women White & Silver Sandals,Footwear,Shoes,Flats,White,Winter,Casual,Women,casual,both,casual,['all'],45384.jpg
+310,57429,Angry Birds Women Blue T-shirt,Apparel,Topwear,Tshirts,Blue,Summer,Casual,Women,casual,outdoor,minimalist,"['rectangle', 'pear']",57429.jpg
+311,25855,Diva Women Printed Red Kurti,Apparel,Topwear,Kurtis,Red,Summer,Ethnic,Women,semi_formal,both,casual,['all'],25855.jpg
+312,39653,Lotto Men White Sports Shoes,Footwear,Shoes,Sports Shoes,White,Summer,Sports,Men,sports,outdoor,sporty,['all'],39653.jpg
+313,57499,Lee Cooper Men Black Formal Shoes,Footwear,Shoes,Formal Shoes,Black,Summer,Casual,Men,casual,indoor,casual,['all'],57499.jpg
+314,9002,Puma Men 917Lo Riddim 50s oc Black Casual Shoes,Footwear,Shoes,Casual Shoes,Black,Fall,Casual,Men,casual,outdoor,casual,['all'],9002.jpg
+315,4856,Newfeel Unisex Black Casual Shoes,Footwear,Shoes,Casual Shoes,Black,Winter,Casual,Unisex,casual,outdoor,casual,['all'],4856.jpg
+316,28941,BIBA Women Ethnic Green Kurta,Apparel,Topwear,Kurtas,Green,Summer,Ethnic,Women,semi_formal,indoor,ethnic,"['pear', 'hourglass']",28941.jpg
+317,5867,ADIDAS Men's Master Shoe White T-shirt,Apparel,Topwear,Tshirts,White,Summer,Casual,Men,casual,outdoor,minimalist,"['rectangle', 'pear']",5867.jpg
+318,47637,Carlton London Women Yellow Peep Toes,Footwear,Shoes,Heels,Yellow,Spring,Casual,Women,casual,both,casual,['all'],47637.jpg
+319,5896,Puma Men Cavallino Black Shoe,Footwear,Shoes,Casual Shoes,Black,Summer,Casual,Men,casual,outdoor,casual,['all'],5896.jpg
+320,10570,Puma Men Rugby Orange Tshirts,Apparel,Topwear,Tshirts,Orange,Fall,Casual,Men,casual,outdoor,minimalist,"['rectangle', 'pear']",10570.jpg
+321,52071,Myntra Men Blue T-shirt,Apparel,Topwear,Tshirts,Blue,Summer,Casual,Men,casual,outdoor,minimalist,"['rectangle', 'pear']",52071.jpg
+322,9146,Lee Women Mid Stone Blue Maxi Fit Jeans,Apparel,Bottomwear,Jeans,Blue,Summer,Casual,Women,casual,both,casual,['all'],9146.jpg
+323,31429,Highlander Men Grey Trousers,Apparel,Bottomwear,Trousers,Grey,Summer,Casual,Men,casual,both,casual,['all'],31429.jpg
+324,5567,Nike Men's Back Board White Navy Blue Shoe,Footwear,Shoes,Sports Shoes,White,Summer,Sports,Men,sports,outdoor,sporty,['all'],5567.jpg
+325,22379,Mark Taylor Men Red & Blue Striped Pink Shirt,Apparel,Topwear,Shirts,Pink,Fall,Casual,Men,casual,indoor,smart_casual,"['rectangle', 'apple']",22379.jpg
+326,23886,Fila Men Hex II White Sports Shoes,Footwear,Shoes,Sports Shoes,White,Fall,Sports,Men,sports,outdoor,sporty,['all'],23886.jpg
+327,29289,Wrangler Men Miriam Checks Pink Shirt,Apparel,Topwear,Shirts,Pink,Summer,Casual,Men,casual,indoor,smart_casual,"['rectangle', 'apple']",29289.jpg
+328,30720,Fabindia Boys Printed Blue Kurta,Apparel,Topwear,Kurtas,Blue,Summer,Ethnic,Boys,semi_formal,indoor,ethnic,"['pear', 'hourglass']",30720.jpg
+329,55797,SDL by Sweet Dreams Women Pista Green Nightdress,Apparel,Loungewear and Nightwear,Nightdress,Green,Summer,Casual,Women,casual,both,casual,['all'],55797.jpg
+330,41304,Gini and Jony Boys White Check Shirt,Apparel,Topwear,Shirts,White,Summer,Casual,Boys,casual,indoor,smart_casual,"['rectangle', 'apple']",41304.jpg
+331,7196,Jealous 21 Women White Girl With Fan T-shirt,Apparel,Topwear,Tshirts,White,Fall,Casual,Women,casual,outdoor,minimalist,"['rectangle', 'pear']",7196.jpg
+332,19783,U.S. Polo Assn. Men Solid Orange Tshirt,Apparel,Topwear,Tshirts,Orange,Winter,Casual,Men,casual,outdoor,minimalist,"['rectangle', 'pear']",19783.jpg
+333,59185,Gliders Men Olive Green Sandals,Footwear,Sandal,Sandals,Grey,Summer,Casual,Men,casual,outdoor,casual,['all'],59185.jpg
+334,6890,Forever New Women's White Blue Printed Top,Apparel,Topwear,Tops,White,Summer,Casual,Women,casual,both,casual,['all'],6890.jpg
+335,39656,Lotto Men Black Shoes,Footwear,Shoes,Casual Shoes,Black,Summer,Casual,Men,casual,outdoor,casual,['all'],39656.jpg
+336,8406,ADIDAS Men M Rsp Short Sleeve White Shorts,Apparel,Bottomwear,Shorts,White,Fall,Sports,Men,sports,outdoor,casual,"['rectangle', 'pear']",8406.jpg
+337,4410,Billy Idol  Men's Crew Navy T-shirt,Apparel,Topwear,Tshirts,Navy Blue,Summer,Casual,Men,casual,outdoor,minimalist,"['rectangle', 'pear']",4410.jpg
+338,4221,Probase Men's Graphic Black T-shirt,Apparel,Topwear,Tshirts,Black,Summer,Casual,Men,casual,outdoor,minimalist,"['rectangle', 'pear']",4221.jpg
+339,24458,Nike Women Solarsoft Thong Purple Flip Flops,Footwear,Flip Flops,Flip Flops,Purple,Summer,Casual,Women,casual,outdoor,casual,['all'],24458.jpg
+340,20259,Wrangler Men Polo White T-shirt,Apparel,Topwear,Tshirts,White,Fall,Casual,Men,casual,outdoor,minimalist,"['rectangle', 'pear']",20259.jpg
+341,10806,Wrangler Men Stampede Printed Stripe Green Shirts,Apparel,Topwear,Shirts,Green,Fall,Casual,Men,casual,indoor,smart_casual,"['rectangle', 'apple']",10806.jpg
+342,5902,Puma Women Balleracer Blue Shoe,Footwear,Shoes,Casual Shoes,Blue,Summer,Casual,Women,casual,outdoor,casual,['all'],5902.jpg
+343,27092,Aneri Women Monika Brown Kurta,Apparel,Topwear,Kurtas,Brown,Summer,Ethnic,Women,semi_formal,indoor,ethnic,"['pear', 'hourglass']",27092.jpg
+344,43258,Aneri Women Multi Coloured Kurta,Apparel,Topwear,Kurtas,Multi,Summer,Ethnic,Women,semi_formal,indoor,ethnic,"['pear', 'hourglass']",43258.jpg
+345,43883,Puma Women Black Flats,Footwear,Shoes,Flats,Black,Summer,Casual,Women,casual,both,casual,['all'],43883.jpg
+346,29798,Basics Men White Striped Shirt,Apparel,Topwear,Shirts,White,Summer,Casual,Men,casual,indoor,smart_casual,"['rectangle', 'apple']",29798.jpg
+347,24470,ADIDAS Men Orange Adi Mesh Flip Flops,Footwear,Flip Flops,Flip Flops,Orange,Fall,Casual,Men,casual,outdoor,casual,['all'],24470.jpg
+348,45725,Folklore Women Blue Kurta,Apparel,Topwear,Kurtas,Blue,Summer,Ethnic,Women,semi_formal,indoor,ethnic,"['pear', 'hourglass']",45725.jpg
+349,7936,Puma Men's Glitch Music TV White T-shirt,Apparel,Topwear,Tshirts,White,Fall,Sports,Men,sports,outdoor,minimalist,"['rectangle', 'pear']",7936.jpg
+350,35701,Nike Men City Court VI White Sports Shoes,Footwear,Shoes,Sports Shoes,White,Summer,Sports,Men,sports,outdoor,sporty,['all'],35701.jpg
+351,19859,U.S. Polo Assn. Men Solid Olive Jacket,Apparel,Topwear,Jackets,Olive,Fall,Casual,Men,casual,both,casual,['all'],19859.jpg
+352,29575,Vans Men Era Charcoal Shoes,Footwear,Shoes,Casual Shoes,Charcoal,Summer,Casual,Men,casual,outdoor,casual,['all'],29575.jpg
+353,50354,Aurelia Women Purple Kurta,Apparel,Topwear,Kurtas,Purple,Summer,Ethnic,Women,semi_formal,indoor,ethnic,"['pear', 'hourglass']",50354.jpg
+354,22031,Vishudh Women Printed Blue Kurta,Apparel,Topwear,Kurtas,Blue,Fall,Ethnic,Women,semi_formal,indoor,ethnic,"['pear', 'hourglass']",22031.jpg
+355,34565,Tonga Women Printed Black Dress,Apparel,Dress,Dresses,Black,Summer,Casual,Women,casual,both,casual,['all'],34565.jpg
+356,3969,Jealous 21 Women Black V Neck With Sequins Top,Apparel,Topwear,Tops,Black,Summer,Casual,Women,casual,both,casual,['all'],3969.jpg
+357,11481,United Colors of Benetton Women Light Winter Green Tops,Apparel,Topwear,Tops,Green,Fall,Casual,Women,casual,both,casual,['all'],11481.jpg
+358,56253,SDL by Sweet Dreams Men Red & Blue Pyjama Set,Apparel,Loungewear and Nightwear,Night suits,Red,Summer,Casual,Men,casual,both,casual,['all'],56253.jpg
+359,40194,Mumbai Slang Women Mustard Kurti,Apparel,Topwear,Kurtis,Mustard,Summer,Ethnic,Women,semi_formal,both,casual,['all'],40194.jpg
+360,14018,Nike Men Stripes Grey Polo Tshirts,Apparel,Topwear,Tshirts,Grey,Fall,Sports,Men,sports,outdoor,minimalist,"['rectangle', 'pear']",14018.jpg
+361,33071,U.S.Polo Assn. Men White Polo T-shirt,Apparel,Topwear,Tshirts,White,Summer,Casual,Men,casual,outdoor,minimalist,"['rectangle', 'pear']",33071.jpg
+362,37893,Happy Socks Women Striped Tights,Apparel,Bottomwear,Tights,Multi,Summer,Casual,Women,casual,both,casual,['all'],37893.jpg
+363,46274,109F Women Multicoloured Printed Top,Apparel,Topwear,Tops,Multi,Summer,Casual,Women,casual,both,casual,['all'],46274.jpg
+364,8997,Puma Men Archive Boot Wtr Black Casual Shoes,Footwear,Shoes,Casual Shoes,Black,Fall,Casual,Men,casual,outdoor,casual,['all'],8997.jpg
+365,59172,Fortune Men Brown Formal Shoes,Footwear,Shoes,Formal Shoes,Brown,Fall,Formal,Men,formal,indoor,casual,['all'],59172.jpg
+366,24450,Nike Men Sweet Classic Leather Black Shoes,Footwear,Shoes,Casual Shoes,Black,Summer,Casual,Men,casual,outdoor,casual,['all'],24450.jpg
+367,3309,Asics Men's Gel Challenger 8 Tennis White Blue Shoe,Footwear,Shoes,Sports Shoes,White,Spring,Sports,Men,sports,outdoor,sporty,['all'],3309.jpg
+368,59826,United Colors of Benetton Men Blue Shirt,Apparel,Topwear,Shirts,Blue,Summer,Casual,Men,casual,indoor,smart_casual,"['rectangle', 'apple']",59826.jpg
+369,52136,Femella Women Black Polo T-Shirt,Apparel,Topwear,Tshirts,Black,Summer,Casual,Women,casual,outdoor,minimalist,"['rectangle', 'pear']",52136.jpg
+370,4486,Lotto Men's Stadio Suprema Black White Shoe,Footwear,Shoes,Sports Shoes,Black,Summer,Sports,Men,sports,outdoor,sporty,['all'],4486.jpg
+371,27929,Scullers For Her Brown Trousers,Apparel,Bottomwear,Trousers,Brown,Summer,Casual,Women,casual,both,casual,['all'],27929.jpg
+372,35504,Bata Men Hummer-p Olive Sandals,Footwear,Sandal,Sandals,Olive,Summer,Casual,Men,casual,outdoor,casual,['all'],35504.jpg
+373,57932,French Connection Men White T-shirt,Apparel,Topwear,Tshirts,White,Summer,Casual,Men,casual,outdoor,minimalist,"['rectangle', 'pear']",57932.jpg
+374,32817,iPanema Women Temas Black Flip Flops,Footwear,Flip Flops,Flip Flops,Black,Winter,Casual,Women,casual,outdoor,casual,['all'],32817.jpg
+375,3644,Fila Men's Maverick HI Navy Green Canvas Shoe,Footwear,Shoes,Casual Shoes,Navy Blue,Summer,Casual,Men,casual,outdoor,casual,['all'],3644.jpg
+376,23158,Mark Taylor Men Grey Printed T-shirt,Apparel,Topwear,Tshirts,Grey,Fall,Casual,Men,casual,outdoor,minimalist,"['rectangle', 'pear']",23158.jpg
+377,9856,Status Quo Men Red Polo Tshirts,Apparel,Topwear,Tshirts,Red,Fall,Casual,Men,casual,outdoor,minimalist,"['rectangle', 'pear']",9856.jpg
+378,12472,Clarks Men Leather Black Formal Shoes,Footwear,Shoes,Formal Shoes,Black,Fall,Formal,Men,formal,indoor,casual,['all'],12472.jpg
+379,11573,W Women Printed Green Kurtas,Apparel,Topwear,Kurtas,Green,Summer,Ethnic,Women,semi_formal,indoor,ethnic,"['pear', 'hourglass']",11573.jpg
+380,24819,Carlton London Women Peach Casual Shoes,Footwear,Shoes,Casual Shoes,Peach,Summer,Casual,Women,casual,outdoor,casual,['all'],24819.jpg
+381,35477,Bata Men Remo Black Formal Shoes,Footwear,Shoes,Formal Shoes,Black,Summer,Formal,Men,formal,indoor,casual,['all'],35477.jpg
+382,51006,Enamor Brown Bra,Apparel,Innerwear,Bra,Brown,Summer,Casual,Women,casual,both,casual,['all'],51006.jpg
+383,6189,Lee Men's Storm Grey T-shirt,Apparel,Topwear,Tshirts,Grey,Summer,Casual,Men,casual,outdoor,minimalist,"['rectangle', 'pear']",6189.jpg
+384,34297,Fabindia Women Gold Tussar Dupatta,Apparel,Topwear,Dupatta,Gold,Summer,Ethnic,Women,semi_formal,both,casual,['all'],34297.jpg
+385,28046,Jockey ELANCE Men Grey Brief 1008,Apparel,Innerwear,Briefs,Grey,Summer,Casual,Men,casual,both,casual,['all'],28046.jpg
+386,41714,Catwalk Women Black Wedges,Footwear,Shoes,Heels,Black,Winter,Casual,Women,casual,both,casual,['all'],41714.jpg
+387,7348,Tantra Men's Help Navy T-Shirt,Apparel,Topwear,Tshirts,Navy Blue,Fall,Casual,Men,casual,outdoor,minimalist,"['rectangle', 'pear']",7348.jpg
+388,9250,Mark Taylor Men Red Striped Shirt,Apparel,Topwear,Shirts,Red,Fall,Formal,Men,formal,indoor,smart_casual,"['rectangle', 'apple']",9250.jpg
+389,15576,Chhota Bheem Kids Boys Double Trouble TShirt,Apparel,Topwear,Tshirts,Olive,Fall,Casual,Boys,casual,outdoor,minimalist,"['rectangle', 'pear']",15576.jpg
+390,34046,Gini and Jony Boys White Shirt,Apparel,Topwear,Shirts,White,Summer,Casual,Boys,casual,indoor,smart_casual,"['rectangle', 'apple']",34046.jpg
+391,12172,Basics Men White Slim Fit Checked Shirt,Apparel,Topwear,Shirts,White,Fall,Casual,Men,casual,indoor,smart_casual,"['rectangle', 'apple']",12172.jpg
+392,35938,Salomon Men X Ultra GTX Black Sports Shoes,Footwear,Shoes,Sports Shoes,Black,Summer,Sports,Men,sports,outdoor,sporty,['all'],35938.jpg
+393,8325,Doodle Boy's Athletic 77 Dept Yellow Teen Kidswear,Apparel,Topwear,Tshirts,Yellow,Fall,Casual,Boys,casual,outdoor,minimalist,"['rectangle', 'pear']",8325.jpg
+394,39657,Lotto Men White Shoes,Footwear,Shoes,Casual Shoes,White,Summer,Casual,Men,casual,outdoor,casual,['all'],39657.jpg
+395,7240,Rockport Men's Stanton Black Shoe,Footwear,Shoes,Formal Shoes,Black,Fall,Formal,Men,formal,indoor,casual,['all'],7240.jpg
+396,50626,Chromozome Men Grey Briefs,Apparel,Innerwear,Briefs,Grey,Winter,Casual,Men,casual,both,casual,['all'],50626.jpg
+397,16407,Levis Men Solid Black Shirts,Apparel,Topwear,Shirts,Black,Fall,Casual,Men,casual,indoor,smart_casual,"['rectangle', 'apple']",16407.jpg
+398,11844,Playboy Men Casual Grey Casual Shoes,Footwear,Shoes,Casual Shoes,Grey,Fall,Casual,Men,casual,outdoor,casual,['all'],11844.jpg
+399,36605,Provogue Men Island Black Shirt,Apparel,Topwear,Shirts,Black,Summer,Casual,Men,casual,indoor,smart_casual,"['rectangle', 'apple']",36605.jpg
+400,50993,Enamor Women Taupe Nightdress,Apparel,Loungewear and Nightwear,Nightdress,Taupe,Summer,Casual,Women,casual,both,casual,['all'],50993.jpg
+401,31237,Puma Men Schon Black & Blue Polo T-shirt,Apparel,Topwear,Tshirts,Black,Summer,Casual,Men,casual,outdoor,minimalist,"['rectangle', 'pear']",31237.jpg
+402,43578,Gini and Jony Girls Woven Peach Top,Apparel,Topwear,Tops,Peach,Summer,Casual,Girls,casual,both,casual,['all'],43578.jpg
+403,50342,Aurelia Women Purple Printed Kurti,Apparel,Topwear,Kurtis,Purple,Summer,Ethnic,Women,semi_formal,both,casual,['all'],50342.jpg
+404,53329,Smugglerz Men Multicolour Check Boxers,Apparel,Innerwear,Boxers,Multi,Summer,Casual,Men,casual,both,casual,['all'],53329.jpg
+405,11105,Indigo Nation Men Stripes Black Shirts,Apparel,Topwear,Shirts,Black,Fall,Formal,Men,formal,indoor,smart_casual,"['rectangle', 'apple']",11105.jpg
+406,57967,Prafful Green Printed Sari,Apparel,Saree,Sarees,Green,Fall,Ethnic,Women,semi_formal,both,casual,['all'],57967.jpg
+407,32270,Vishudh Women Printed Grey Kurta,Apparel,Topwear,Kurtas,Grey,Summer,Ethnic,Women,semi_formal,indoor,ethnic,"['pear', 'hourglass']",32270.jpg
+408,4268,Nike Men's Tiempo Natural Maroon Shoe,Footwear,Shoes,Sports Shoes,Maroon,Summer,Sports,Men,sports,outdoor,sporty,['all'],4268.jpg
+409,18576,Puma Men Riddim Red Tshirt,Apparel,Topwear,Tshirts,Red,Fall,Casual,Men,casual,outdoor,minimalist,"['rectangle', 'pear']",18576.jpg
+410,13954,United Colors of Benetton Men Printed White  Polo Tshirts,Apparel,Topwear,Tshirts,White,Summer,Casual,Men,casual,outdoor,minimalist,"['rectangle', 'pear']",13954.jpg
+411,16426,Levi's Men Printed Green Tshirts,Apparel,Topwear,Tshirts,Green,Fall,Casual,Men,casual,outdoor,minimalist,"['rectangle', 'pear']",16426.jpg
+412,6317,Catwalk Pink Slip-On Shoe,Footwear,Shoes,Casual Shoes,Pink,Winter,Casual,Women,casual,outdoor,casual,['all'],6317.jpg
+413,14091,Flying Machine Women Solid Peach Sweaters,Apparel,Topwear,Sweaters,Peach,Fall,Casual,Women,casual,both,casual,['all'],14091.jpg
+414,17464,Beyouty Women Zena BR 01 Pink Bra,Apparel,Innerwear,Bra,Pink,Summer,Casual,Women,casual,both,casual,['all'],17464.jpg
+415,37751,John Players Men Check Red Shirt,Apparel,Topwear,Shirts,Red,Summer,Casual,Men,casual,indoor,smart_casual,"['rectangle', 'apple']",37751.jpg
+416,2139,Basics Men White Roadies T-shirt,Apparel,Topwear,Tshirts,White,Spring,Casual,Men,casual,outdoor,minimalist,"['rectangle', 'pear']",2139.jpg
+417,47038,Shree Women Red Kurta,Apparel,Topwear,Kurtas,Red,Summer,Ethnic,Women,semi_formal,indoor,ethnic,"['pear', 'hourglass']",47038.jpg
+418,31109,Gini and Jony Boys Printed Orange T-shirt,Apparel,Topwear,Tshirts,Orange,Summer,Casual,Boys,casual,outdoor,minimalist,"['rectangle', 'pear']",31109.jpg
+419,22700,Nike Men Grey Quest Sandal,Footwear,Sandal,Sandals,Grey,Fall,Casual,Men,casual,outdoor,casual,['all'],22700.jpg
+420,40260,Scullers Men Check Blue Shirt,Apparel,Topwear,Shirts,Blue,Summer,Casual,Men,casual,indoor,smart_casual,"['rectangle', 'apple']",40260.jpg
+421,14294,Classic Polo Men Stripes Black Tshirts,Apparel,Topwear,Tshirts,Black,Fall,Casual,Men,casual,outdoor,minimalist,"['rectangle', 'pear']",14294.jpg
+422,38578,Nike Men Grey RF Tee T-shirt,Apparel,Topwear,Tshirts,Grey,Summer,Casual,Men,casual,outdoor,minimalist,"['rectangle', 'pear']",38578.jpg
+423,42555,Mother Earth Women Purple Kurta,Apparel,Topwear,Kurtas,Purple,Summer,Ethnic,Women,semi_formal,indoor,ethnic,"['pear', 'hourglass']",42555.jpg
+424,4080,Inkfruit Men's Monkey Red T-shirt,Apparel,Topwear,Tshirts,Red,Summer,Casual,Men,casual,outdoor,minimalist,"['rectangle', 'pear']",4080.jpg
+425,44646,Arrow Woman Black Skirt,Apparel,Bottomwear,Skirts,Black,Summer,Formal,Women,formal,both,casual,['all'],44646.jpg
+426,3165,Nike Men's Air Court Leader Low Black Red Shoe,Footwear,Shoes,Sports Shoes,Black,Summer,Sports,Men,sports,outdoor,sporty,['all'],3165.jpg
+427,10285,Clarks Men Goya Rates Leather Black Formal Shoes,Footwear,Shoes,Formal Shoes,Black,Fall,Formal,Men,formal,indoor,casual,['all'],10285.jpg
+428,43257,Aneri Women White Kurta,Apparel,Topwear,Kurtas,White,Summer,Ethnic,Women,semi_formal,indoor,ethnic,"['pear', 'hourglass']",43257.jpg
+429,41001,Gini and Jony  Girls Woven Blue Shorts,Apparel,Bottomwear,Shorts,Blue,Summer,Casual,Girls,casual,outdoor,casual,"['rectangle', 'pear']",41001.jpg
+430,11062,John Miller Men Solid Light Maroon Shirts,Apparel,Topwear,Shirts,Maroon,Fall,Casual,Men,casual,indoor,smart_casual,"['rectangle', 'apple']",11062.jpg
+431,4969,Gini and Jony Boy's Kay Blue Kidswear,Apparel,Topwear,Tshirts,Blue,Summer,Casual,Men,casual,outdoor,minimalist,"['rectangle', 'pear']",4969.jpg
+432,45342,Cobblerz Women Black Sandals,Footwear,Shoes,Heels,Black,Summer,Casual,Women,casual,both,casual,['all'],45342.jpg
+433,18765,Catwalk Women Casual Brown Flats,Footwear,Shoes,Heels,Brown,Winter,Casual,Women,casual,both,casual,['all'],18765.jpg
+434,56867,HM Women Black Shoes,Footwear,Shoes,Flats,Black,Winter,Casual,Women,casual,both,casual,['all'],56867.jpg
+435,34045,Gini and Jony Boys Black Shirt,Apparel,Topwear,Shirts,Black,Summer,Casual,Boys,casual,indoor,smart_casual,"['rectangle', 'apple']",34045.jpg
+436,27421,Jockey Women Blue Lounge Pants,Apparel,Loungewear and Nightwear,Lounge Pants,Blue,Winter,Casual,Women,casual,both,casual,['all'],27421.jpg
+437,4644,ADIDAS Women Adi Primo Low White Silver Navy Shoe,Footwear,Shoes,Sports Shoes,White,Summer,Sports,Women,sports,outdoor,sporty,['all'],4644.jpg
+438,3612,Puma Men's Deccan Chargers It Grows on You Grey T-shirt,Apparel,Topwear,Tshirts,Grey,Summer,Sports,Men,sports,outdoor,minimalist,"['rectangle', 'pear']",3612.jpg
+439,36500,Folklore Women Brown Kurta,Apparel,Topwear,Kurtas,Brown,Summer,Ethnic,Women,semi_formal,indoor,ethnic,"['pear', 'hourglass']",36500.jpg
+440,2738,Disney Kids Boy's Double Fun Kidswear,Apparel,Topwear,Tshirts,White,Summer,Casual,Boys,casual,outdoor,minimalist,"['rectangle', 'pear']",2738.jpg
+441,3120,Probase Men's Freestyler Turquoise T-shirt,Apparel,Topwear,Tshirts,Blue,Summer,Casual,Men,casual,outdoor,minimalist,"['rectangle', 'pear']",3120.jpg
+442,34586,Tonga Women Printed Black Dress,Apparel,Dress,Dresses,Black,Summer,Casual,Women,casual,both,casual,['all'],34586.jpg
+443,21644,Enamor Women Smooth White Bra,Apparel,Innerwear,Bra,White,Fall,Casual,Women,casual,both,casual,['all'],21644.jpg
+444,20773,Carlton London Women Classy Red Sandals,Footwear,Shoes,Flats,Red,Summer,Casual,Women,casual,both,casual,['all'],20773.jpg
+445,44341,Indian Terrain Men Blue T-shirt,Apparel,Topwear,Tshirts,Blue,Summer,Casual,Men,casual,outdoor,minimalist,"['rectangle', 'pear']",44341.jpg
+446,39179,Aneri Women Blue Kurtas,Apparel,Topwear,Kurtas,Blue,Summer,Ethnic,Women,semi_formal,indoor,ethnic,"['pear', 'hourglass']",39179.jpg
+447,48503,French Connection Women Cream Top,Apparel,Topwear,Tops,Cream,Summer,Casual,Women,casual,both,casual,['all'],48503.jpg
+448,21401,Locomotive Men Printed Red T-shirt,Apparel,Topwear,Tshirts,Red,Fall,Casual,Men,casual,outdoor,minimalist,"['rectangle', 'pear']",21401.jpg
+449,30469,Lovable Women All Day Long White Bra,Apparel,Innerwear,Bra,White,Summer,Casual,Women,casual,both,casual,['all'],30469.jpg
+450,39849,Gini and Jony Girls Striped Blue Top,Apparel,Topwear,Tops,Blue,Summer,Casual,Girls,casual,both,casual,['all'],39849.jpg
+451,7172,Scullers Men Navy Blue Check Shirt,Apparel,Topwear,Shirts,Navy Blue,Fall,Casual,Men,casual,indoor,smart_casual,"['rectangle', 'apple']",7172.jpg
+452,5931,ADIDAS Men's Derby White Shoe,Footwear,Shoes,Casual Shoes,White,Summer,Casual,Men,casual,outdoor,casual,['all'],5931.jpg
+453,16280,Beatles Men Beatles Black Sweatshirts,Apparel,Topwear,Sweatshirts,Black,Fall,Casual,Men,casual,outdoor,streetwear,"['rectangle', 'pear']",16280.jpg
+454,18512,C Vox Men Red Jacket,Apparel,Topwear,Jackets,Red,Fall,Casual,Men,casual,both,casual,['all'],18512.jpg
+455,6874,Forever New Women Pink Sleeveless Dress,Apparel,Dress,Dresses,Pink,Summer,Casual,Women,casual,both,casual,['all'],6874.jpg
+456,39265,Red Chief Men Brown Formal Shoes,Footwear,Shoes,Formal Shoes,Brown,Winter,Formal,Men,formal,indoor,casual,['all'],39265.jpg
+457,5606,ADIDAS Men Kendall Black Floater,Footwear,Sandal,Sandals,Black,Summer,Casual,Men,casual,outdoor,casual,['all'],5606.jpg
+458,47226,Franco Leone Men Brown Formal Shoes,Footwear,Shoes,Formal Shoes,Brown,Summer,Formal,Men,formal,indoor,casual,['all'],47226.jpg
+459,14410,Enroute Women Casual Blue Flats,Footwear,Shoes,Heels,Blue,Summer,Casual,Women,casual,both,casual,['all'],14410.jpg
+460,9616,Indigo Nation Men Checks Black White Shirts,Apparel,Topwear,Shirts,Black,Fall,Casual,Men,casual,indoor,smart_casual,"['rectangle', 'apple']",9616.jpg
+461,16069,Highlander Men Solid Navy Blue Trouser,Apparel,Bottomwear,Trousers,Navy Blue,Fall,Casual,Men,casual,both,casual,['all'],16069.jpg
+462,45389,Rocia Women Grey Flats,Footwear,Shoes,Flats,Grey,Winter,Casual,Women,casual,both,casual,['all'],45389.jpg
+463,47124,Marvel Boys Grey Web Spider Casual Shoes,Footwear,Shoes,Casual Shoes,Grey,Fall,Casual,Boys,casual,outdoor,casual,['all'],47124.jpg
+464,49813,iPanema Women Purple Flip Flops,Footwear,Flip Flops,Flip Flops,Purple,Winter,Casual,Women,casual,outdoor,casual,['all'],49813.jpg
+465,13114,Numero Uno Men Casual White Casual Shoes,Footwear,Shoes,Casual Shoes,White,Summer,Casual,Men,casual,outdoor,casual,['all'],13114.jpg
+466,17510,Classic Polo Men Stripes White Polo T-Shirt,Apparel,Topwear,Tshirts,White,Fall,Casual,Men,casual,outdoor,minimalist,"['rectangle', 'pear']",17510.jpg
+467,4443,Converse Unisex Converse Digital White Shoe,Footwear,Shoes,Casual Shoes,White,Summer,Casual,Unisex,casual,outdoor,casual,['all'],4443.jpg
+468,50884,Prafful Multi Coloured Printed Sari,Apparel,Saree,Sarees,Multi,Fall,Ethnic,Women,semi_formal,both,casual,['all'],50884.jpg
+469,47656,Femella Women Black Printed Dress,Apparel,Dress,Dresses,Black,Summer,Casual,Women,casual,both,casual,['all'],47656.jpg
+470,46006,Fabindia Magenta & Orange Striped Saree Mangalgiri Saree,Apparel,Saree,Sarees,Magenta,Summer,Ethnic,Women,semi_formal,both,casual,['all'],46006.jpg
+471,14359,Catwalk Women Casual Copper Heels,Footwear,Shoes,Heels,Copper,Winter,Casual,Women,casual,both,casual,['all'],14359.jpg
+472,20125,Wrangler Women Flower Purple Shirt,Apparel,Topwear,Shirts,Purple,Fall,Casual,Women,casual,indoor,smart_casual,"['rectangle', 'apple']",20125.jpg
+473,3997,Spalding Men Grey & Orange Flip Flops,Footwear,Flip Flops,Flip Flops,Grey,Winter,Casual,Men,casual,outdoor,casual,['all'],3997.jpg
+474,49981,Hanes Men Khaki Innerwear Vest,Apparel,Innerwear,Innerwear Vests,Khaki,Summer,Casual,Men,casual,both,casual,['all'],49981.jpg
+475,37732,John Players Men White Check Shirt,Apparel,Topwear,Shirts,White,Summer,Casual,Men,casual,indoor,smart_casual,"['rectangle', 'apple']",37732.jpg
+476,44851,Puma Men Red Ferrari T-shirt,Apparel,Topwear,Tshirts,Red,Summer,Casual,Men,casual,outdoor,minimalist,"['rectangle', 'pear']",44851.jpg
+477,29849,Basics Men Brown Trousers,Apparel,Bottomwear,Trousers,Brown,Summer,Casual,Men,casual,both,casual,['all'],29849.jpg
+478,3814,Disney Kids Boy's Street Crew Blue Kidswear,Apparel,Topwear,Tshirts,Blue,Summer,Casual,Boys,casual,outdoor,minimalist,"['rectangle', 'pear']",3814.jpg
+479,17960,Puma Men Hopper Black Sandal,Footwear,Sandal,Sandals,Black,Fall,Casual,Men,casual,outdoor,casual,['all'],17960.jpg
+480,43326,United Colors of Benetton Women Blue Slim Fit T-shirt,Apparel,Topwear,Tshirts,Blue,Summer,Casual,Women,casual,outdoor,minimalist,"['rectangle', 'pear']",43326.jpg
+481,13401,United Colors of Benetton Men Check Red Shirts,Apparel,Topwear,Shirts,Red,Summer,Casual,Men,casual,indoor,smart_casual,"['rectangle', 'apple']",13401.jpg
+482,18936,Levi's Men Graphic Print Green Tshirt,Apparel,Topwear,Tshirts,Green,Fall,Casual,Men,casual,outdoor,minimalist,"['rectangle', 'pear']",18936.jpg
+483,49434,Vans Unisex Blue Authentic Shoes,Footwear,Shoes,Casual Shoes,Blue,Fall,Casual,Unisex,casual,outdoor,casual,['all'],49434.jpg
+484,45942,Mumbai Slang Women Pink Top,Apparel,Topwear,Tops,Pink,Summer,Casual,Women,casual,both,casual,['all'],45942.jpg
+485,5647,ADIDAS Women's Ballerino Black Ballerinas,Footwear,Shoes,Flats,Black,Summer,Casual,Women,casual,both,casual,['all'],5647.jpg
+486,25556,Wrangler Men Biker Pink T-shirt,Apparel,Topwear,Tshirts,Pink,Summer,Casual,Men,casual,outdoor,minimalist,"['rectangle', 'pear']",25556.jpg
+487,21833,Chhota Bheem Kids Boys Lets Rock Grey T-shirt,Apparel,Topwear,Tshirts,Grey,Fall,Casual,Boys,casual,outdoor,minimalist,"['rectangle', 'pear']",21833.jpg
+488,19366,Redtape Men Pontoise Black Formal Shoes,Footwear,Shoes,Formal Shoes,Black,Winter,Formal,Men,formal,indoor,casual,['all'],19366.jpg
+489,23904,Fila Men Mercury II White Casual Shoes,Footwear,Shoes,Casual Shoes,White,Fall,Casual,Men,casual,outdoor,casual,['all'],23904.jpg
+490,50784,Clarks Women Cream Coloured Onslow Beat Leather Wedges,Footwear,Shoes,Heels,Cream,Fall,Casual,Women,casual,both,casual,['all'],50784.jpg
+491,48081,French Connection Men Red T-shirt,Apparel,Topwear,Tshirts,Red,Summer,Casual,Men,casual,outdoor,minimalist,"['rectangle', 'pear']",48081.jpg
+492,4625,ADIDAS Men's Football Hard Ground White Black Shoe,Footwear,Shoes,Sports Shoes,Black,Summer,Sports,Men,sports,outdoor,sporty,['all'],4625.jpg
+493,12656,Probase Men Stripes White Shirts,Apparel,Topwear,Shirts,White,Fall,Casual,Men,casual,indoor,smart_casual,"['rectangle', 'apple']",12656.jpg
+494,5699,Skechers Men's Striking Black Shoe,Footwear,Shoes,Casual Shoes,Black,Winter,Casual,Men,casual,outdoor,casual,['all'],5699.jpg
+495,6947,Tantra Men's Glasses Mustard T-shirt,Apparel,Topwear,Tshirts,Mustard,Summer,Casual,Men,casual,outdoor,minimalist,"['rectangle', 'pear']",6947.jpg
+496,13117,Numero Uno Men Black Shoes,Footwear,Shoes,Casual Shoes,Black,Fall,Casual,Men,casual,outdoor,casual,['all'],13117.jpg
+497,22027,Vishudh Women Floral Print Orange Kurta,Apparel,Topwear,Kurtas,White,Fall,Ethnic,Women,semi_formal,indoor,ethnic,"['pear', 'hourglass']",22027.jpg
+498,25783,Arrow Men Black & Beige Suspenders,Apparel,Topwear,Suspenders,Black,Summer,Formal,Men,formal,both,casual,['all'],25783.jpg
+499,28036,Jockey ELANCE Men Blue Y Front Briefs 1006,Apparel,Innerwear,Briefs,Blue,Summer,Casual,Men,casual,both,casual,['all'],28036.jpg
