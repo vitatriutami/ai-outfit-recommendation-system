@@ -145,8 +145,10 @@ body_type_options = {
     "⏳ Hourglass": "hourglass"
 }
 
+st.sidebar.markdown("## Body Shape")
+
 selected_body = st.sidebar.radio(
-    "## Body Shape",
+    "",
     options=list(body_type_options.keys())
 )
 
@@ -163,8 +165,10 @@ formality_options = {
     "🧥 Semi Formal": "semi_formal"
 }
 
+st.sidebar.markdown("## Activity Type")
+
 selected_formality = st.sidebar.selectbox(
-    "## Activity Type",
+    "",
     options=list(formality_options.keys())
 )
 
@@ -199,8 +203,10 @@ style_options = {
     "🌸 Ethnic": "ethnic"
 }
 
+st.sidebar.markdown("## Fashion Style")
+
 selected_style = st.sidebar.selectbox(
-    "## Fashion Style",
+    "",
     options=list(style_options.keys())
 )
 
@@ -242,8 +248,10 @@ for color in available_colors:
         f"{emoji} {color}"
     )
 
+st.sidebar.markdown("## Preferred Color")
+
 selected_color_display = st.sidebar.selectbox(
-    "## Preferred Color",
+    "",
     options=color_display
 )
 
