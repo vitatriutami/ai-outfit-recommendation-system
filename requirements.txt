@@ -3,4 +3,4 @@ numpy
 pandas
 Pillow
 scikit-learn
-tensorflow
+tensorflow-cpu
